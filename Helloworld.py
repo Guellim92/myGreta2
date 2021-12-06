@@ -8,4 +8,8 @@ str= "! toto !"
 
 
 print ("\n"+str)
+
+str = "pas très rond"
+print ("\n"+str)
+
 ##
